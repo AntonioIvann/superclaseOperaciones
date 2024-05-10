@@ -1,5 +1,5 @@
 // Subclase para sumar
-public class Suma extends Operaciones {
+public class Suma extends Operacion {
     // Constructor de la clase Suma que recibe dos parámetros
     public Suma(double a, double b) {
         super(a, b); // Llamada al constructor de la clase base (Operaciones) con los valores proporcionados

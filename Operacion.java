@@ -1,11 +1,11 @@
 // Clase base para las operaciones matemáticas
-public class Operaciones {
+public class Operacion {
     // Atributos para almacenar los valores de la operación
     private double a; // Primer valor de la operación
     private double b; // Segundo valor de la operación
 
     // Constructor que inicializa los valores
-    public Operaciones(double a, double b) {
+    public Operacion(double a, double b) {
         this.a = a; // Asigna el primer valor proporcionado al atributo 'a'
         this.b = b; // Asigna el segundo valor proporcionado al atributo 'b'
     }

@@ -1,5 +1,5 @@
 // Subclase para dividir
-public class Division extends Operaciones { // Define la subclase Dividir que extiende la clase Operaciones
+public class Division extends Operacion { // Define la subclase Dividir que extiende la clase Operaciones
     public Division(double a, double b) { // Constructor de la clase Dividir que recibe dos parámetros
         super(a, b); // Llama al constructor de la clase base (Operaciones) con los valores proporcionados
     }
